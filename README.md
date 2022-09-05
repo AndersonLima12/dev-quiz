@@ -5,7 +5,7 @@
 
 <br/>
 
-<h1 align="center"> Dev Quiz🔒 </h1> 
+<h1 align="center"> Dev Quiz 📝 </h1> 
 
 <p align="center"> <strong><em>Para aqueles que gostam de aprender através de perguntas e respostas.<br>
 Projeto desenolvido para meios de aprendizado.</em></strong> ❗️ 📚 👨🏻‍💻 </p>
