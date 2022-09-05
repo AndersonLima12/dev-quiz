@@ -27,3 +27,21 @@
   width: 25%;
   font-size: 15px
 }
+
+@media (max-width: 900px){
+  #question {
+    background-color: #8435de;
+    border-radius: 1rem;
+    padding: 1rem;
+    width: 300px;
+  }
+  #come__back{
+    margin-top: -2%;
+    margin-bottom: 5%;
+  }
+  
+  #back_title{
+    width: 35%;
+    font-size: 15px
+  }
+}
