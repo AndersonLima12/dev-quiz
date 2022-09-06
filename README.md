@@ -27,7 +27,12 @@ Projeto desenolvido para meios de aprendizado.</em></strong> ❗️ 📚 👨�
 ## - Sobre o projeto ! 🤔
  <strong>Dev Quiz</strong> é um projeto de perguntas e resposta para aquelas pessoas que querem aprimorar seus conhecimentos. Este é um projeto 100% responsivo.📱
  
- ## 🛠 &nbsp; Tecnologias usadas.
+## - 💻 Rodar e instalar as dependências do projeto:
+
+### 1° yarn install || npm install para instalar as dependências <br/>
+### 2° rodar um npm run dev = para rodar o projeto. 
+
+## 🛠 &nbsp; Tecnologias usadas.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
